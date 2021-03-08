@@ -1,4 +1,4 @@
-# infinitescrolling
+# Infinitescrolling
 
 ```
 git clone https://github.com/dinesh-0310/infinitescrolling.git
